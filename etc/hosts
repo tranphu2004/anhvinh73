@@ -1,0 +1,61 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+==========Lock IDM Auto Update========== 
+127.0.0.1 www.internetdownloadmanager.com
+
+60.254.175.42 facebook.com
+60.254.175.42 www.facebook.com
+60.254.175.42 register.facebook.com
+60.254.175.42 www.logins.facebook.com
+60.254.175.42 blog.facebook.com
+60.254.175.42 logins.facebook.com
+60.254.175.42 login.facebook.com
+60.254.175.42 apps.facebook.com
+153.16.15.71 upload.facebook.com
+60.254.175.42 graph.facebook.com
+60.254.175.42 profile.ak.fbcdn.net
+60.254.175.42 photos-a.ak.fbcdn.net
+60.254.175.42 photos-b.ak.fbcdn.net
+60.254.175.42 photos-c.ak.fbcdn.net
+60.254.175.42 photos-d.ak.fbcdn.net
+60.254.175.42 photos-e.ak.fbcdn.net
+60.254.175.42 photos-f.ak.fbcdn.net
+60.254.175.42 photos-g.ak.fbcdn.net
+60.254.175.42 photos-h.ak.fbcdn.net
+60.254.175.42 static.ak.connect.facebook.com
+60.254.175.42 static.ak.fbcdn.net
+60.254.175.42 b.static.ak.fbcdn.net
+60.254.175.42 error.facebook.com
+60.254.175.42 developers.facebook.com
+60.254.175.42 pixel.facebook.com
+60.254.175.42 api.facebook.com
+60.254.175.42 chanel.facebook.com
+60.254.175.42 0.50.chanel.facebook.com
+60.254.175.42 external.ak.fbcdn.net
+60.254.175.42 profile.ak.fbcdn.net
+60.254.175.42 creative.ak.fbcdn.net
+60.254.175.42 chat.facebook.com
+60.254.175.42 vupload.facebook.com
+60.254.175.42 secure.facebook.com
+60.254.175.42 connect.facebook.com
+60.254.175.42 channel.facebook.com
